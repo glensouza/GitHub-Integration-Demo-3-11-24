@@ -27,7 +27,7 @@ Integrating GitHub with Azure DevOps allows developers that are currently using 
 - [Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops)
 - [GitHub Documentation](https://docs.github.com/en)
 - [Azure DevOps Boards Link to from Github](https://learn.microsoft.com/en-us/azure/devops/boards/github/link-to-from-github?view=azure-devops)
-- [Azure Devops Project Used on This Demo]([https://dev.azure.com/glenster75/OR-GitHub-DevOps-Integration-Demo-2024-03](https://dev.azure.com/glenster75/GitHub-Integration-Demo-3-11-24))
+- [Azure Devops Project Used on This Demo](https://dev.azure.com/glenster75/GitHub-Integration-Demo-3-11-24)
 - [Azure Boards GitHub Marketplace](https://github.com/marketplace/azure-boards)
 
 ## Demo
